@@ -1,0 +1,13 @@
+dash>=2.14.0
+dash-bootstrap-components>=1.5.0
+plotly>=5.18.0
+pandas>=2.0.0
+numpy>=1.24.0
+kagglehub>=0.2.0
+
+# ── Chatbot ───────────────────────────────────────────────────────────────────
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-google-genai>=1.0.0
+langchain-tavily>=0.1.0
+python-dotenv>=1.0.0
