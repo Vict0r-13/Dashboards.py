@@ -13,7 +13,7 @@
 
 ## 📸 Preview
 
-> *Dashboard rodando em modo dark premium com sidebar de navegação,
+> *Dashboard rodando em modo dark com sidebar de navegação,
 > mapas interativos Mapbox e KPIs em tempo real.*
 
 ---
