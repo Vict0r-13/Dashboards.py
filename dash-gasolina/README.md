@@ -51,8 +51,8 @@ dash-gasolina/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/Vict0r-13/dash-gasolina.git
-cd dash-gasolina
+git clone https://github.com/Vict0r-13/Dashboards.py.git
+cd Dashboards.py/dash-gasolina
 
 # 2. Instale as dependências
 pip install -r requirements.txt
